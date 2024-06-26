@@ -12,5 +12,7 @@ from sklearn.metrics import ConfusionMatrixDisplay
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 
 Load dataet from sklearn
+
 from sklearn.datasets import load_digits
-digits = load_digits()
+
+Uses load_digits for dataset
